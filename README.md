@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi ,I'm Nina 👋
 
-<!--
-**Nina-prem/Nina-prem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Laravel Developer Intern | ☕ Java Enthusiast  
+💻 Passionate about backend development and building clean, efficient web applications.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Languages:** PHP, Java, HTML, CSS, JavaScript
+- **Frameworks:** Laravel, Spring Boot 
+- **Tools:** Git, GitHub, MySQL, Postman, VS Code, IntelliJ IDEA
+- **Currently learning:**  Laravel project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- ✅ Completed a PHP Laravel Developer Internship
+- 🧠 Enjoy learning and solving backend logic problems
+- 🚀 Looking for full-time opportunities for Laravel backend projects
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nina-prem&show_icons=true&theme=radical)
+
+- 💼 [LinkedIn](https://linkedin.com/in/Nina-P-676998250/)
+- 📧 nainapremraj@gmail.com
